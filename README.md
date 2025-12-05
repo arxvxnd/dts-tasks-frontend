@@ -1,5 +1,8 @@
 # dts-tasks-frontend
 
+<img width="1906" height="1056" alt="image" src="https://github.com/user-attachments/assets/5c4e05a1-7dff-4f00-9147-7a4d841f534d" />
+
+
 ## Purpose
 Frontend interface for creating HMCTS caseworker tasks.  
 Provides a simple form allowing users to submit task details to the backend API and view the created record.  
